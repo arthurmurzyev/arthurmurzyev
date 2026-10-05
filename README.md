@@ -23,16 +23,4 @@
 
 <br/>
 
----
-
-### Контакты
-
-<a href="https://t.me/arthmurz">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="36" width="36" alt="Telegram" />
-</a>
-<img width="16" />
-<a href="mailto:arthurmurzyev@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail" />
-</a>
-
 </div>
