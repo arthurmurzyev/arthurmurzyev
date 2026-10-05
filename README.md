@@ -25,11 +25,4 @@
 
 <br/>
 
----
-
-### Контакты
-
-- **Telegram:** [@arthmurz](https://t.me/arthmurz)
-- **Email:** arthurmurzyev@gmail.com
-
 </div>
