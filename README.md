@@ -1,16 +1,17 @@
-## Hi there 👋
+### Junior Backend Developer (.NET / C#)
+Специализируюсь на проектировании RESTful API и архитектуре бэкенда на .NET 8.
 
-<!--
-**arthurmurzyev/arthurmurzyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET 8, ASP.NET Core Web API
+- Entity Framework Core
+- Postman, Docker 
+
+---
+
+### Контакты
+
+- **Telegram:** [@arthmurz](https://t.me/arthmurz)
+- **Email:** arthurmurzyev@gmail.com
